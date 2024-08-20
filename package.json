@@ -1,0 +1,18 @@
+{
+  "name": "praticando-01",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Tests running ...\"",
+    "build": "echo \"Build running ...\"",
+    "deploy": "echo \"Deploying new build to cloud server ...\""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vitorgabrielgg/git_hub-actions.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
